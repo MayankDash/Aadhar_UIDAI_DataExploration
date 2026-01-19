@@ -1,4 +1,4 @@
-state,district,mean_stress_index,mean_update_dependency,stress_volatility,dependency_volatility,pct_active_months,activity_growth_slope,maturity_cluster,mean_monthly_activity
+state,district,mean_update_to_enrolment_ratio,mean_update_dependency,update_to_enrolment_ratio_volatility,dependency_volatility,pct_active_months,activity_growth_slope,maturity_cluster,mean_monthly_activity
 ANDAMAN & NICOBAR ISLANDS,ANDAMANS,106.58363095238096,0.8795675896808696,97.41609807884387,0.3097727934535821,0.9,42.7030303030303,0,284.0
 ANDAMAN & NICOBAR ISLANDS,NICOBARS,0.55,0.1633333333333333,1.2572014777097409,0.2856441712911233,0.3,0.2606060606060606,1,0.7
 ANDAMAN & NICOBAR ISLANDS,SOUTH ANDAMAN,6.728472222222223,0.3760712521937537,9.163387022031484,0.4856115855341806,0.4,26.37575757575758,1,71.0

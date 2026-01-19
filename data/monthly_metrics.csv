@@ -1,4 +1,4 @@
-state,district,month,age_0_5,age_5_17,age_18_greater,demo_age_5_17,demo_age_17_,bio_age_5_17,bio_age_17_,new_enrolments,total_updates,total_activity,stress_index,update_dependency_ratio,is_active,adult_total_updates,bds,child_total_activity,cci,stress_index_capped
+state,district,month,age_0_5,age_5_17,age_18_greater,demo_age_5_17,demo_age_17_,bio_age_5_17,bio_age_17_,new_enrolments,total_updates,total_activity,Update-to-Enrolment Ratio,update_dependency_ratio,is_active,adult_total_updates,bds,child_total_activity,cci,Update-to-Enrolment Ratio_capped
 ANDAMAN & NICOBAR ISLANDS,ANDAMANS,2025-03-01,0.0,0.0,0.0,0.0,0.0,16.0,193.0,0.0,209.0,209.0,209.0,0.9952380952380953,1,193.0,0.9948453608247423,16.0,0.9411764705882353,209.0
 ANDAMAN & NICOBAR ISLANDS,ANDAMANS,2025-04-01,0.0,0.0,0.0,0.0,0.0,17.0,167.0,0.0,184.0,184.0,184.0,0.9945945945945946,1,167.0,0.9940476190476191,17.0,0.9444444444444444,184.0
 ANDAMAN & NICOBAR ISLANDS,ANDAMANS,2025-05-01,0.0,0.0,0.0,0.0,0.0,22.0,158.0,0.0,180.0,180.0,180.0,0.994475138121547,1,158.0,0.9937106918238994,22.0,0.9565217391304348,180.0
